@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "mindexsharedayf859d129": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
